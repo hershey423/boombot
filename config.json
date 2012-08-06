@@ -6,12 +6,12 @@
     "botname" : "Hershey423's Bitch"
   },
   "roomid" : "4f6d3091a3f75169fa0007a2",
-  "admin" : "4fb30359aaa5cd1b440008fb"
+  "admin" : ,
   {
     "userid" : "4fb30359aaa5cd1b440008fb"
   },
   "consolelog" : true,
-  "responses" :
+  "responses" : "What do you want?!? o.o"
   {
     "rules" : "s",
     "botwelcome" : "WHO DARES SUMMON ME?!",
